@@ -1,0 +1,62 @@
+.formcls{
+    margin: 0 auto;
+    width: 250px;
+    text-align: center;
+}
+
+h1.hello{
+    text-align: center;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    padding: 15px;
+    
+}
+
+.bgcolorchange{
+    background-color: silver;
+    margin-bottom: 20px;
+    padding: 75px;
+}
+
+.textmargin{
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.movText{
+    padding-left: 60px;
+}
+
+
+.hello {
+    padding-left: 20px;
+}
+
+
+.rgtspc{
+    padding-right: 40px;
+}
+
+
+input.modifiedInput[type="text"]{
+    background-color: #d1e7dd;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+
+input.modifiedInput2[type="text"]{
+    background-color: #fff3cd;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+
+
+
+
